@@ -1,2 +1,2 @@
-# REPO
-calculator
+# REPOSITORY
+calculator project
